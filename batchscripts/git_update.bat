@@ -19,6 +19,7 @@ git add quantum/ -A
 
 :: @echo off
 :: Creates commit name
+:: Found here: https://superuser.com/questions/315984/how-to-get-the-date-in-a-batch-file-in-a-predictable-format
 	:: Check WMIC is available
 	WMIC.EXE Alias /? >NUL 2>&1 || GOTO s_error
 
