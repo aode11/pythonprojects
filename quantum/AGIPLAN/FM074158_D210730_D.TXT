@@ -1,0 +1,96 @@
+1FATURA TECNICA                SOLDI PROMOTORA DE VENDAS LTDA     571632074158878MULTI SAUDE EMPRESA                20210720210730FATURAMENTO    0000002                            
+2010500SOLDI PROMOTORA DE VENDAS LTDA     00000000000000000000000000000000000000000000000000000000000000020210730                                                                   
+30500001798100CAMILA DUARTE GONCALVES                12121990220TNE101072017AM07202100000000004189200000000000000008CONSULTORA          88011326    139217061816774158017981002     
+30500001798100F.MODERADORES  PAGOS EM 07/2021        00000000000    00000000RS07202100000000001248000000000000000010                                139217061816774158017981002     
+40500(AC)ACERTO DE FATURA(COBRAR)       000000000000000000000000000000000000000000000000000000                                                                                      
+40500(RS)RECUPERACAO SINISTRO           000000000000000000000001000000000012480000000000000000                                                                                      
+40500(  )VIDAS REMAN. MES ANTERIOR      000000000000000000000000000000000000000000000000000000                                                                                      
+40500(IM)INCLUSOES NO MES               000000000000000000000000000000000000000000000000000000                                                                                      
+40500(IR)INCLUSOES RETROATIVAS          000000000000000000000000000000000000000000000000000000                                                                                      
+40500(RM)REATIVACOES NO MES             000000000000000000000000000000000000000000000000000000                                                                                      
+40500(RR)REATIVACOES RETROATIVAS        000000000000000000000000000000000000000000000000000000                                                                                      
+40500(TM)TRANSFERENCIAS NO MES          000000000000000000000000000000000000000000000000000000                                                                                      
+40500(TR)TRANSFERENCIAS RETROATIVAS     000000000000000000000000000000000000000000000000000000                                                                                      
+40500(AM)ALTERACOES NO MES              000001000000000001000001000000000041892000000000000000                                                                                      
+40500(AR)ALTERACOES RETROATIVAS         000000000000000000000000000000000000000000000000000000                                                                                      
+40500(RE)COBRANCA DE REMIDO             000000000000000000000000000000000000000000000000000000                                                                                      
+40500(TC)TOTAIS A COBRAR                000001000000000001000002000000000054372000000000000000                                                                                      
+40500(AD)ACERTO DE FATURA(DEVOLVER)     000000000000000000000000000000000000000000000000000000                                                                                      
+40500(CM)CANCELAMENTOS NO MES           000000000000000000000000000000000000000000000000000000                                                                                      
+40500(CR)CANCELAMENTOS RETROATIVOS      000000000000000000000000000000000000000000000000000000                                                                                      
+40500(TM)TRANSFERENCIAS NO MES          000000000000000000000000000000000000000000000000000000                                                                                      
+40500(TR)TRANSFERENCIAS RETROATIVAS     000000000000000000000000000000000000000000000000000000                                                                                      
+40500(AM)ALTERACOES NO MES              000000000000000000000000000000000000000000000000000000                                                                                      
+40500(AR)ALTERACOES RETROATIVAS         000000000000000000000000000000000000000000000000000000                                                                                      
+40500(DM)DEVOLUCAO REMIDO NO MES        000000000000000000000000000000000000000000000000000000                                                                                      
+40500(DR)DEVOLUCAO REMIDO RETROAT.      000000000000000000000000000000000000000000000000000000                                                                                      
+40500(TD)TOTAIS A DEVOLVER              000000000000000000000000000000000000000000000000000000                                                                                      
+40500(TS)TOTAIS DA SUBFATURA            000001000000000001000002000000000054372000000000000000                                                                                      
+40500   PLANOS CONTRATADOS:                                                                                                                                                         
+40500   PLANO   N.TIT   N.DEP N.VIDAS FATOR REEMB.HM HOSPITAL                 PLANO   N.TIT   N.DEP N.VIDAS FATOR REEMB.HM HOSPITAL                                                 
+40500   EE03        0       0                   0,00 REFERENCIADO             FXE1        0       0                   0,00 REFERENCIADO                                             
+40500   NP03        0       0                   0,00 REFERENCIADO             TNE1        1       0                   0,00 REFERENCIADO                                             
+40500   TNQ2        0       0                   0,00 REFERENCIADO                                                                                                                   
+2010851SOLDI PROMOTORA DE VENDAS LTDA     00000000000000000000000000000000000000000000000000000000000000020210730                                                                   
+30851001151700FRANCIELE TATIANA CONTENTE             17101990210TNE101112016AM07202100000000004205400000000000000008CONSULTORA          11517       135153726878774158011517000     
+30851001151700FRANCIELE TATIANA CONTENTE             17101990210TNE101112016AM07202100000000004243200000000000000008CONSULTORA          11517       135153726878774158011517000     
+40851(AC)ACERTO DE FATURA(COBRAR)       000000000000000000000000000000000000000000000000000000                                                                                      
+40851(RS)RECUPERACAO SINISTRO           000000000000000000000000000000000000000000000000000000                                                                                      
+40851(  )VIDAS REMAN. MES ANTERIOR      000000000000000000000000000000000000000000000000000000                                                                                      
+40851(IM)INCLUSOES NO MES               000000000000000000000000000000000000000000000000000000                                                                                      
+40851(IR)INCLUSOES RETROATIVAS          000000000000000000000000000000000000000000000000000000                                                                                      
+40851(RM)REATIVACOES NO MES             000000000000000000000000000000000000000000000000000000                                                                                      
+40851(RR)REATIVACOES RETROATIVAS        000000000000000000000000000000000000000000000000000000                                                                                      
+40851(TM)TRANSFERENCIAS NO MES          000000000000000000000000000000000000000000000000000000                                                                                      
+40851(TR)TRANSFERENCIAS RETROATIVAS     000000000000000000000000000000000000000000000000000000                                                                                      
+40851(AM)ALTERACOES NO MES              000001000000000001000002000000000084486000000000000000                                                                                      
+40851(AR)ALTERACOES RETROATIVAS         000000000000000000000000000000000000000000000000000000                                                                                      
+40851(RE)COBRANCA DE REMIDO             000000000000000000000000000000000000000000000000000000                                                                                      
+40851(TC)TOTAIS A COBRAR                000001000000000001000002000000000084486000000000000000                                                                                      
+40851(AD)ACERTO DE FATURA(DEVOLVER)     000000000000000000000000000000000000000000000000000000                                                                                      
+40851(CM)CANCELAMENTOS NO MES           000000000000000000000000000000000000000000000000000000                                                                                      
+40851(CR)CANCELAMENTOS RETROATIVOS      000000000000000000000000000000000000000000000000000000                                                                                      
+40851(TM)TRANSFERENCIAS NO MES          000000000000000000000000000000000000000000000000000000                                                                                      
+40851(TR)TRANSFERENCIAS RETROATIVAS     000000000000000000000000000000000000000000000000000000                                                                                      
+40851(AM)ALTERACOES NO MES              000000000000000000000000000000000000000000000000000000                                                                                      
+40851(AR)ALTERACOES RETROATIVAS         000000000000000000000000000000000000000000000000000000                                                                                      
+40851(DM)DEVOLUCAO REMIDO NO MES        000000000000000000000000000000000000000000000000000000                                                                                      
+40851(DR)DEVOLUCAO REMIDO RETROAT.      000000000000000000000000000000000000000000000000000000                                                                                      
+40851(TD)TOTAIS A DEVOLVER              000000000000000000000000000000000000000000000000000000                                                                                      
+40851(TS)TOTAIS DA SUBFATURA            000001000000000001000002000000000084486000000000000000                                                                                      
+40851   PLANOS CONTRATADOS:                                                                                                                                                         
+40851   PLANO   N.TIT   N.DEP N.VIDAS FATOR REEMB.HM HOSPITAL                 PLANO   N.TIT   N.DEP N.VIDAS FATOR REEMB.HM HOSPITAL                                                 
+40851   EE03        0       0                   0,00 REFERENCIADO             FXE1        0       0                   0,00 REFERENCIADO                                             
+40851   NP03        0       0                   0,00 REFERENCIADO             TNE1        2       0                   0,00 REFERENCIADO                                             
+40851   TNQ2        0       0                   0,00 REFERENCIADO                                                                                                                   
+49999(AC)ACERTO DE FATURA(COBRAR)       000000000000000000000000000000000000000000000000000000                                                                                      
+49999(RS)RECUPERACAO SINISTRO           000000000000000000000001000000000012480000000000000000                                                                                      
+49999(  )VIDAS REMAN. MES ANTERIOR      000000000000000000000000000000000000000000000000000000                                                                                      
+49999(IM)INCLUSOES NO MES               000000000000000000000000000000000000000000000000000000                                                                                      
+49999(IR)INCLUSOES RETROATIVAS          000000000000000000000000000000000000000000000000000000                                                                                      
+49999(RM)REATIVACOES NO MES             000000000000000000000000000000000000000000000000000000                                                                                      
+49999(RR)REATIVACOES RETROATIVAS        000000000000000000000000000000000000000000000000000000                                                                                      
+49999(TM)TRANSFERENCIAS NO MES          000000000000000000000000000000000000000000000000000000                                                                                      
+49999(TR)TRANSFERENCIAS RETROATIVAS     000000000000000000000000000000000000000000000000000000                                                                                      
+49999(AM)ALTERACOES NO MES              000002000000000002000003000000000126378000000000000000                                                                                      
+49999(AR)ALTERACOES RETROATIVAS         000000000000000000000000000000000000000000000000000000                                                                                      
+49999(RE)COBRANCA DE REMIDO             000000000000000000000000000000000000000000000000000000                                                                                      
+49999(TC)TOTAIS A COBRAR                000002000000000002000004000000000138858000000000000000                                                                                      
+49999(AD)ACERTO DE FATURA(DEVOLVER)     000000000000000000000000000000000000000000000000000000                                                                                      
+49999(CM)CANCELAMENTOS NO MES           000000000000000000000000000000000000000000000000000000                                                                                      
+49999(CR)CANCELAMENTOS RETROATIVOS      000000000000000000000000000000000000000000000000000000                                                                                      
+49999(TM)TRANSFERENCIAS NO MES          000000000000000000000000000000000000000000000000000000                                                                                      
+49999(TR)TRANSFERENCIAS RETROATIVAS     000000000000000000000000000000000000000000000000000000                                                                                      
+49999(AM)ALTERACOES NO MES              000000000000000000000000000000000000000000000000000000                                                                                      
+49999(AR)ALTERACOES RETROATIVAS         000000000000000000000000000000000000000000000000000000                                                                                      
+49999(DM)DEVOLUCAO REMIDO NO MES        000000000000000000000000000000000000000000000000000000                                                                                      
+49999(DR)DEVOLUCAO REMIDO RETROAT.      000000000000000000000000000000000000000000000000000000                                                                                      
+49999(TD)TOTAIS A DEVOLVER              000000000000000000000000000000000000000000000000000000                                                                                      
+49999(TS)TOTAIS DA SUBFATURA            000002000000000002000004000000000138858000000000000000                                                                                      
+49999   PLANOS CONTRATADOS:                                                                                                                                                         
+49999   PLANO   N.TIT   N.DEP N.VIDAS FATOR REEMB.HM HOSPITAL                 PLANO   N.TIT   N.DEP N.VIDAS FATOR REEMB.HM HOSPITAL                                                 
+49999   EE03        0       0                   0,00 REFERENCIADO             FXE1        0       0                   0,00 REFERENCIADO                                             
+49999   NP03        0       0                   0,00 REFERENCIADO             TNE1        3       0                   0,00 REFERENCIADO                                             
+49999   TNQ2        0       0                   0,00 REFERENCIADO                                                                                                                   
+5TRAILLER FATURA TECNICA                                                                                                                                                            
+

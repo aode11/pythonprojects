@@ -1,0 +1,1 @@
+@pythonw C:\Users\cross\PythonScripts\Utility\gsearch.py %*
